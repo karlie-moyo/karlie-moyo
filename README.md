@@ -28,6 +28,31 @@
     </ul>
 <br>
 
+<br>
+</details>
+<details open>
+<summary align="center">
+  <h2>
+    <img alt="GIF" src="./Image/handshake2.gif" width="25px"> Connect With Me
+  </h2>
+</summary>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/karlie-moyo" target="_blank">
+    <img src="https://img.icons8.com/ios/50/000000/linkedin.png" width="40" height="40" alt="LinkedIn" style="margin: 0 10px;"/>
+  </a>
+  <a href="https://twitter.com/karlieemoyo" target="_blank">
+    <img src="https://img.icons8.com/ios/50/000000/twitter.png" width="40" height="40" alt="Twitter" style="margin: 0 10px;"/>
+  </a>
+  <a href="https://github.com/karlie-moyo" target="_blank">
+    <img src="https://img.icons8.com/ios/50/000000/github.png" width="40" height="40" alt="GitHub" style="margin: 0 10px;"/>
+  </a>
+  <a href="https://medium.com/@karliemoyo" target="_blank">
+    <img src="https://img.icons8.com/ios/50/000000/medium.png" width="40" height="40" alt="Medium" style="margin: 0 10px;"/>
+</div>
+<br>
+
+
 
 ![image](https://user-images.githubusercontent.com/110098940/236414410-ba7a38ac-2960-4cee-a7f3-87ab448f1fe1.png)
 
