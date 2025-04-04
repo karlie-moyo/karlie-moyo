@@ -17,9 +17,9 @@
 <br>
 <details open>
     <summary align="center"><h2> <img alt="GIF" src="./Image/Developer.gif" width="30px" /> Briefly About Your Girl 👧 </h2></summary>
-    <p align="center"> I am a Software Engineer Developer🤖  <img src="./Image/cat-coder.gif" width="30px"> from South Africa.</p>
+    <p align="center"> I am a Software Engineer Developer <img src="./Image/cat-coder.gif" width="30px"> from South Africa.</p>
     <img align="right" alt="GIF" src="./Image/ai.gif" width=35% height=45%/>
-    <h3> <img alt="GIF" src="./Image/paper.gif" width="20px" />  I Know You Want To Know A Little More🧐: </h3>
+    <h3> <img alt="GIF" src="./Image/paper.gif" width="20px" />  I Know You Want To Know A Little More🧐 </h3>
     <ul>
         <li><a><img alt="GIF" src="./Image/trophy.gif" width="30px"/>&nbsp;I’m a Software Engineering graduate 🧑‍🎓, eager to explore new opportunities to make an impact. I thrive at the exciting crossroads of technology and creativity.</a></li><br>
         <li><a><img alt="GIF" src="./Image/laptop.gif" width="30px" />&nbsp;I'm driven by a love for solving problems. I’ve always found myself at the intersection of connecting people and working alongside businesses. My mission is simple – to bridge connections, empower collaboration, and tackle challenges that genuinely make a difference.</a></li><br>
