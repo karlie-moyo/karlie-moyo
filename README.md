@@ -17,7 +17,7 @@
 <br>
 <details open>
     <summary align="center"><h2> <img alt="GIF" src="./Image/Developer.gif" width="30px" /> Briefly About Your Girl 👧 </h2></summary>
-    <p align="center"> I am a Software Engineer Developer <img src="./Image/cat-coder.gif" width="30px"> from South Africa.</p>
+    <p align="center"> Software Engineer Developer <img src="./Image/cat-coder.gif" width="30px"> from South Africa.</p>
     <img align="right" alt="GIF" src="./Image/ai.gif" width=35% height=45%/>
     <h3> <img alt="GIF" src="./Image/paper.gif" width="20px" />  I Know You Want To Know A Little More🧐 </h3>
     <ul>
@@ -47,11 +47,10 @@
   <a href="https://github.com/karlie-moyo" target="_blank">
     <img src="https://img.icons8.com/ios/50/000000/github.png" width="40" height="40" alt="GitHub" style="margin: 0 10px;"/>
   </a>
-  <a href="https://medium.com/@karliemoyo" target="_blank">
+  <a href="https://medium.com/@karlieemoyo" target="_blank">
     <img src="https://img.icons8.com/ios/50/000000/medium.png" width="40" height="40" alt="Medium" style="margin: 0 10px;"/>
 </div>
 <br>
-
 
 
 ![image](https://user-images.githubusercontent.com/110098940/236414410-ba7a38ac-2960-4cee-a7f3-87ab448f1fe1.png)
