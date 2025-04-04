@@ -14,6 +14,21 @@
 
 <p align="center">
 
+<br>
+<details open>
+    <summary align="center"><h2> <img alt="GIF" src="./Image/Developer.gif" width="30px" /> Briefly About Your Girl 👧 </h2></summary>
+    <p align="center"> I am a Software Engineer Developer🤖  <img src="./Image/cat-coder.gif" width="30px"> from South Africa.</p>
+    <img align="right" alt="GIF" src="./Image/ai.gif" width=35% height=45%/>
+    <h3> <img alt="GIF" src="./Image/paper.gif" width="20px" />  I Know You Want To Know A Little More🧐: </h3>
+    <ul>
+        <li><a><img alt="GIF" src="./Image/trophy.gif" width="30px"/>&nbsp;I’m a Software Engineering graduate 🧑‍🎓, eager to explore new opportunities to make an impact. I thrive at the exciting crossroads of technology and creativity.</a></li><br>
+        <li><a><img alt="GIF" src="./Image/laptop.gif" width="30px" />&nbsp;I'm driven by a love for solving problems. I’ve always found myself at the intersection of connecting people and working alongside businesses. My mission is simple – to bridge connections, empower collaboration, and tackle challenges that genuinely make a difference.</a></li><br>
+       <li><a><img alt="GIF" src="./Image/books.gif" width="30px" />&nbsp; I enjoy writing documentation because I believe it's just as important as the code itself. It's like telling the story of how the code works and what it can do. I always strive to make documentation clear, concise, and useful..</a></li><br>
+        <li><a><img alt="GIF" src="./Image/learninig.gif" width="30px" />&nbsp; My core mission is to seamlessly integrate AI with human experiences, focusing on ethics and interactivity. I also leverage AI to boost my creativity, expanding my horizons and exploring new possibilities. Ultimately, my goal is to use AI responsibly, driving positive and impactful changes in the world.</a></li><br>
+    </ul>
+<br>
+
+
 ![image](https://user-images.githubusercontent.com/110098940/236414410-ba7a38ac-2960-4cee-a7f3-87ab448f1fe1.png)
 
 
